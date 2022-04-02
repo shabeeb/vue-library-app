@@ -1,6 +1,16 @@
 <template>
   <div id="app">
+    <h2>Vue create library and use in project example</h2>
+    <div>
+      <a
+        href="http://shabeebk.com/blog/build-a-vue-js-component-library-and-push-to-npm/"
+        target="_sb"
+        class="link"
+        >Read Full Blog Here
+      </a>
+    </div>
     <img alt="Vue logo" src="./assets/logo.png" />
+
     <my-button />
   </div>
 </template>
