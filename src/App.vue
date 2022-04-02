@@ -12,6 +12,8 @@
     <img alt="Vue logo" src="./assets/logo.png" />
 
     <my-button />
+    <p>This is another button</p>
+    <my-button />
   </div>
 </template>
 
