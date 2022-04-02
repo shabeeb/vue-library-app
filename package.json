@@ -2,10 +2,10 @@
   "name": "vue-app",
   "version": "0.1.0",
   "private": true,
-  "author": { 
-    "name" : "Shabeeb K",
-    "email" : "mail@shabeebk.com",
-    "url" : "http://shabeebk.com/"
+  "author": {
+    "name": "Shabeeb K",
+    "email": "mail@shabeebk.com",
+    "url": "http://shabeebk.com/"
   },
   "scripts": {
     "serve": "vue-cli-service serve",
@@ -14,6 +14,7 @@
   },
   "dependencies": {
     "core-js": "^3.8.3",
+    "sb-vue-component-library": "github:shabeeb/sb-vue-component-library",
     "vue": "^2.6.14",
     "vue-component-library": "github:shabeeb/vue-component-library"
   },
